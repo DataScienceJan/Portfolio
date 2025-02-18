@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://DataScienceJan.github.io"
+baseurl = "https://DataScienceJan.github.io/Portfolio"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
